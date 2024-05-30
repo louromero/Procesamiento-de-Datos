@@ -22,7 +22,7 @@ Donde `<URL>` es la dirección desde donde se descargarán los datos en formato 
 ## Ejemplo
 
 ```bash
-python Parte_6_Automatizacion.py https://public.opendatasoft.com/explore/dataset/us-cities-demographics/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+python Parte_6_Automatizacion.py https://huggingface.co/datasets/mstz/heart_failure/raw/main/heart_failure_clinical_records_dataset.csv
 ```
 
 ## Requisitos
