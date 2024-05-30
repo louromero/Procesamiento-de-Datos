@@ -10,6 +10,14 @@ En esta etapa del proyecto usamos matplotlib para:
     - cantidad de fumadores
     - cantidad de muertos
 
+# Parte 8: Analizando distribuciones 2
+Realizar una gráfica usando subplots, que contenga gráficas de torta que represente las distribuciones de:
+
+- Cantidad de anémicos
+- Cantidad de diabéticos
+- Cantidad de fumadores
+- Cantidad de muertos
+
 ## Requisitos
 
 - Librería: `pandas`, `matplotlib`
