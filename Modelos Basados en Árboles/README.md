@@ -10,3 +10,14 @@ Ahora vamos a empezar a usar el dataset para lo que fue creado, ajustar un model
 
 ## Nota:
 No olvides eliminar la colúmna `categoria_edad.`
+
+# Parte 12: Clasificación 2
+Sobre el dataset ya particionado en conjuntos de entrenamiento y test, realiza lo siguiente:
+
+1. Ajusta un random forest
+2. Calcula su matriz de confusión
+3. Calcula F1-Score y compara con el accuracy
+4. Trata de cambiar los valores de los parámetros del random forest para conseguir el mejor resultado que puedas.
+
+## Nota:
+No olvides eliminar la colúmna `categoria_edad`.
